@@ -41,3 +41,8 @@ The program has five input fields:
 2. **Translation Model:**
     - This model requires using the complete folder for English-to-Chinese translation operations after speech transcription.
     - Currently, only one model is available.
+## None GUI Version
+
+1. **Instructions for Running the Script:**
+    - python main.py --video_path path/to/video.mp4 --whisper_model models/WhisperModel1.bin --translation_model models/TranslationModel --transcript_srt_file_path path/to/transcript.srt --translated_srt_file_path path/to/translated.srt --process_translation_segments --use_gpu
+    - Replace the paths with the actual paths to your video, models, and output files. If you don't want to process translation segments or use GPU, omit the --process_translation_segments and --use_gpu flags. ​
