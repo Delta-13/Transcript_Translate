@@ -8,7 +8,7 @@ dependencies:
   - brotli-python=1.0.9
   - bzip2=1.0.8
   - ca-certificates=2024.3.11
-  - certifi=2024.2.2
+  - certifi=2026.10.19
   - cuda-cccl=12.4.127
   - cuda-cudart=12.1.105
   - cuda-cudart-dev=12.1.105
