@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - blas=1.0
-  - brotli-python=1.0.9
+  - brotli-python=1.2.1
   - bzip2=1.0.8
   - ca-certificates=2024.3.11
   - certifi=2026.10.19
@@ -77,8 +77,8 @@ dependencies:
   - tk=8.6.12
   - typing_extensions=4.11.0
   - urllib3=2.2.1
-  - vc=14.2
-  - vs2015_runtime=14.27.29016
+  - vc=14.3
+  - vs2015_runtime=14.44.35208
   - wheel=0.46.3
   - win_inet_pton=1.1.0
   - xz=5.4.5
